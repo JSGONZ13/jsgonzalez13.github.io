@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+date:   2024-06-22 18:15:00 -0500
+categories: jekyll update
 ---
 
 ## Personal Blog
