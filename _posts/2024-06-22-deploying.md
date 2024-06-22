@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Deploying a Python Lambda Function
 date:   2024-06-22 18:15:00 -0500
 categories: jekyll update
 ---
