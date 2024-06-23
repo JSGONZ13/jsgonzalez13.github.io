@@ -17,8 +17,8 @@ jobs:
         env:
           PAT_TOKEN: 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
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --global user.email "jsgonzalez13@utpl.edu.ec"
+          git config --global user.name "JSGONZ13"
           git config --global credential.helper store
           echo "machine github.com login JSGONZ13 password $PAT_TOKEN" > ~/.netrc
 
