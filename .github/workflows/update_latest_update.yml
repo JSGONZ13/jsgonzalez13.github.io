@@ -1,4 +1,4 @@
-name: Update Latest Update
+name: Update Latest Update to file
 
 on:
   push:
